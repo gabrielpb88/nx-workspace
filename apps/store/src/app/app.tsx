@@ -1,6 +1,7 @@
 import { getAllGames } from '../fake-api'
 import { Card, CardActionArea, CardContent, CardMedia } from '@material-ui/core';
 import Typography from '@material-ui/core/Typography';
+import './app.scss'
 
 export function App()  {
   return (
