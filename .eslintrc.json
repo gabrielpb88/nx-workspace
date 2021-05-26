@@ -10,7 +10,7 @@
           "error",
           {
             "enforceBuildableLibDependency": true,
-            "allow": [],
+            "allow": ["@nxegghead/store/ui-shared"],
             "depConstraints": [
               {
                 "sourceTag": "*",
